@@ -1,8 +1,8 @@
 import React from "react";
 
 import "./App.css";
-import RecipeApp from "./ref/Main";
-import Navbar from "./ref/Nav";
+import RecipeApp from "./Project/Main"
+import Navbar from "./Project/Nav"
 
 
 
@@ -13,9 +13,7 @@ function App(){
     return(
         <>
         <Navbar/>
-       <RecipeApp/>
-    {/* <Main/> */}
-     {/* <RecipeExplorer/> */}
+     <RecipeApp/>
         </>
     )
 }
