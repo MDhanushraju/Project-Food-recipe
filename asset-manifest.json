@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MDhanushraju/Project-Food-recipe/static/css/main.acdfcc7f.css",
+    "main.js": "/MDhanushraju/Project-Food-recipe/static/js/main.00d4a35e.js",
+    "index.html": "/MDhanushraju/Project-Food-recipe/index.html",
+    "main.acdfcc7f.css.map": "/MDhanushraju/Project-Food-recipe/static/css/main.acdfcc7f.css.map",
+    "main.00d4a35e.js.map": "/MDhanushraju/Project-Food-recipe/static/js/main.00d4a35e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.acdfcc7f.css",
+    "static/js/main.00d4a35e.js"
+  ]
+}
