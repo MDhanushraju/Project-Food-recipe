@@ -1,0 +1,45 @@
+Project Name:
+
+Meal Recipe Finder (working title)
+
+Purpose:
+
+To help users find meals and recipes based on available ingredients, cuisine preferences, dietary restrictions (vegetarian, non-veg, gluten-free, dairy-free), mood, time, and meal type (breakfast, lunch, dinner).
+
+Displays meal details and instructions with an interactive user interface.
+
+Main Features:
+
+Filter meals by ingredients, cuisine, dietary preferences, mood, time, and meal type.
+
+View meal details with full recipe instructions and ingredients.
+
+Fetches data dynamically from TheMealDB API.
+
+Loading and error states to handle API responses gracefully.
+
+Technologies Used:
+
+React for frontend UI components.
+
+Axios for API data fetching.
+
+Bootstrap CSS for styling.
+
+TheMealDB API as the data source.
+
+Installation & Usage (inferred):
+
+Install dependencies via npm or yarn.
+
+Run the React app in development mode.
+
+Interact through a form-based filter UI and meal grid display.
+
+Additional Notes:
+
+Includes modular React components: Filters, MealGrid, RecipeModal, Navbar.
+
+API calls are abstracted in an Api.js file.
+
+Comprehensive error handling and loading feedback in the UI.

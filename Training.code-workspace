@@ -1,0 +1,39 @@
+{
+	"folders": [
+		{
+			"name": "Training",
+			"path": "../OneDrive/Documents/Training"
+		},
+		{
+			"name": "java script",
+			"path": "../OneDrive/dhanush/java script"
+		},
+		{
+			"path": "../OneDrive/dhanush/html practice"
+		},
+		{
+			"path": "../OneDrive/dhanush/creating web page"
+		},
+		{
+			"path": "../OneDrive/Desktop/vs code/new examples for js"
+		},
+		{
+			"path": "../OneDrive/Desktop/vs code/html and css new"
+		},
+		{
+			"path": "../OneDrive/Desktop/vs code/web pages"
+		},
+		{
+			"path": "../OneDrive/Desktop/vs code/practice"
+		},
+		{
+			"path": "../OneDrive/Desktop/vs code/objects"
+		},
+		{
+			"path": "../OneDrive/Desktop/vs code/project"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "practice"
+	}
+}
